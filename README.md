@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Aryan</h1>
+<h1 align="center">Hi, I am Abhijeet</h1>
 <h3 align="center">Junior SDET | Explorer of Automation | Lifelong Learner</h3>
 
 <p align="center">
