@@ -29,31 +29,21 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Frequent Tech Stacks
 
-### 🔴 SAST / DAST / SCA
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B2D55?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white)
-
-### 🟠 Pentesting & API Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-### 🟡 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### 🟢 DevSecOps & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -73,10 +63,9 @@
 
 **SDET @ Excelerate Technologies** — Bengaluru, India
 
-- Embedded security testing within the STLC of AI-based web applications, pushing coverage as early as the design phase
-- Uncovered 15+ auth flaws, prompt injection vectors, and data exposure risks in LLM workflows — contributing to a ~30% improvement in AI feature security posture
-- Reduced backend defects by ~25% through targeted code-level reviews covering CRUD logic and database interaction patterns
-- Collaborated with developers on prompt safeguards and LLM orchestration improvements, resulting in ~20% more reliable model behaviour across test scenarios
+- Integrating Security into STLC as much as possible
+- Continuous LLM Bug exposure, communication & mitigation
+- Targeting code-level reviews covering CRUD logic and database interaction patterns
 
 ---
 
