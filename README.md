@@ -54,7 +54,7 @@
 | Offensive Pentesting Path | TryHackMe | ✅ Completed | [View](https://tryhackme.com/path/outline/pentesting) |
 | CompTIA Pentest+ Path | TryHackMe | ✅ Completed | [View](https://tryhackme.com/path/outline/pentestplus) |
 | Secure Backend Development | Meta | ✅ Completed | [View](https://www.coursera.org/professional-certificates/meta-back-end-developer) |
-| AI-900: Azure AI Fundamentals | Microsoft | 📌 Up Next | [View](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) |
+| AI-900: Azure AI Fundamentals | Microsoft | ⏳ In Progress | [View](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) |
 | AI Red Teamer | HackTheBox | 📌 Up Next | [View](https://academy.hackthebox.com/path/preview/ai-red-teamer) |
 
 ---
